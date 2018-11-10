@@ -1,4 +1,4 @@
 token=NTEwOTA4MTI4NTM2MDM1MzQ1.DsjPYA.YtZFeJZ4IlWwiiiABJJzA9M8aQc
-owner= 290114907389558784
+owner=290114907389558784
 prefix=r!
 stayinchannel=true
